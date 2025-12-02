@@ -1,0 +1,5 @@
+timestamp,event_type,key_code
+1000.0,PRESS,a
+1000.1,RELEASE,a
+1000.2,PRESS,b
+1000.35,RELEASE,b
